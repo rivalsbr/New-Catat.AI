@@ -1,0 +1,8 @@
+customer_id,customer_name,gender,email,no_phone,address,note
+CUST-1,Budi Santoso,Pria,budi.s@email.com,81234567890,"Jl. Melati No. 10, Jakarta Selatan",Pelanggan setia. Sering pesan Kopi Susu dan Croissant Cokelat via Dine In.
+CUST-2,Siti Rahayu,Wanita,siti.r@email.com,82345678901,"Perum. Indah Blok A, Tangerang",Sangat suka Croissant Cokelat. Sering datang saat pagi hari.
+CUST-3,Asep Suteja,Pria,asep.s@email.com,83456789012,"Jl. Mawar No. 5, Bekasi",Beli via GoFood. Pesanan favoritnya adalah Nasi Ayam Geprek.
+CUST-4,Dewi Lestari,Wanita,dewi.l@email.com,85678901234,"Apartemen Bahagia, Depok","Langganan kopi, terutama Kopi Hitam. Sering pesan untuk take away."
+CUST-5,Rina Amelia,Wanita,rina.a@email.com,87812345678,"Jl. Kenanga No. 22, Jakarta Pusat",Pelanggan baru. Tertarik dengan promo.
+CUST-6,Joko Subroto,Pria,joko.s@email.com,81112223333,"Jl. Cempaka Putih No. 5, Jakarta Pusat",Suka pesan via GrabFood.
+CUST-7,Tika Ramadhani,Wanita,tika.r@email.com,85556667777,"Perumahan Hijau Asri, Bogor","Pelanggan tetap, sering pesan di weekend."

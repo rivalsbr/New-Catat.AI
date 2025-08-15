@@ -1,0 +1,7 @@
+promo_id,promo_name,date,promo_type,discount_percent,promo_details,note
+PROM-1,Promo Merdeka,17/08/2025,diskon_persen,15,"menu,all,min_beli,nominal,10000,max_diskon,15000","Diskon 15% untuk semua menu, minimal pembelian 10000, maksimal diskon 15000."
+PROM-2,Diskon Pelajar,15/09/2025,diskon_persen,10,"menu,all,min_beli,nominal,0,max_diskon,0",Diskon 10% khusus untuk pelajar.
+PROM-3,Gratis Kopi,05/10/2025,free_produk,0,"menu,all,min_beli,nominal,100000,free_produk,PROD-2,1","Beli semua menu minimal 100k, gratis 1 Kopi Hitam."
+PROM-4,Beli 2 Gratis 1 Donat,06/10/2025,beli_X_gratis_Y,0,"beli,PROD-6,2,gratis,PROD-6,1",Beli 2 Donat Kentang gratis 1 Donat Kentang.
+PROM-5,Paket Hemat Nasi Kopi,07/10/2025,bundle,0,"produk,PROD-4,PROD-1,harga_paket,40000",Paket bundling Nasi Ayam Geprek dan Kopi Susu.
+PROM-6,Diskon Gede,08/10/2025,diskon_nominal,0,"menu,PROD-1,min_beli,pcs,3,nilai_diskon,5000",Diskon 5000 untuk pembelian 3 Kopi Susu.

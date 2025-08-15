@@ -1,0 +1,10 @@
+item_id,item_name,unit,in,out,balance,note
+ITEM-1,Biji Kopi Arabica,kg,100,35,65,Pembelian awal (50 kg) dan pembelian kedua (50 kg). Dipakai untuk berbagai jenis kopi.
+ITEM-2,Susu Full Cream,liter,50,25,25,"Stok awal 50 liter, dipakai untuk Kopi Susu dan Latte Caramel."
+ITEM-3,Gula Aren Cair,botol,20,10,10,Stok awal 20 botol. Khusus untuk Kopi Susu Gula Aren.
+ITEM-4,Adonan Croissant,kg,30,15,15,"Stok awal 30 kg, dipakai untuk Croissant Cokelat."
+ITEM-5,Cokelat Batangan,pcs,50,25,25,Stok awal 50 pcs. Dipakai untuk isian Croissant Cokelat.
+ITEM-6,Kemasan Cup,pcs,500,200,300,Stok awal 500 pcs. Dipakai untuk semua minuman.
+ITEM-7,Ayam Fillet,kg,20,5,15,Bahan utama untuk Nasi Ayam Geprek.
+ITEM-8,Caramel Syrup,botol,15,3,12,Bahan tambahan untuk Latte Caramel.
+ITEM-9,Tepung Kentang,kg,20,5,15,Bahan untuk Donat Kentang.

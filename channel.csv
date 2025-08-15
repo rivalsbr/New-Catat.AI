@@ -1,0 +1,5 @@
+channel_id,channel_name,type
+CHAN-1,Dine In,Offline
+CHAN-2,GoFood,Marketplace
+CHAN-3,GrabFood,Marketplace
+CHAN-4,Tokopedia,Marketplace

@@ -1,0 +1,7 @@
+product_id,product_name,category,selling_price,unit,hpp
+PROD-1,Kopi Susu Gula Aren,Minuman,20000,cup,8000
+PROD-2,Kopi Hitam,Minuman,15000,cup,5000
+PROD-3,Croissant Cokelat,Makanan,25000,pcs,12000
+PROD-4,Nasi Ayam Geprek,Makanan,30000,porsi,15000
+PROD-5,Latte Caramel,Minuman,22000,cup,9500
+PROD-6,Donat Kentang,Makanan,12000,pcs,6000
